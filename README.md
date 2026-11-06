@@ -13,7 +13,7 @@
 | 7 | Security | (planned) |
 | 8 | Observability | (planned) |
 | 9 | Kubernetes | (planned) |
-| 10 | System design | see [system-design-cheatsheet](../system-design-cheatsheet) |
+| 10 | System design | see [system-design-cheatsheet](https://github.com/satyam-ships/system-design-cheatsheet) |
 
 ## How to use
 Work top to bottom. Don't move on until you've built the project and the tests pass.
